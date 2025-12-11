@@ -1,0 +1,8 @@
+{
+  "name": "Smart Echo Display",
+  "description": "A smart display interface inspired by Echo Show for reusing Android tablets, featuring weather, news, alarms, and Gemini AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
